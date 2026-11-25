@@ -30,16 +30,6 @@ The release APK is cryptographically signed and ready for immediate deployment o
 | **Version Code** | `1` (`1.0.0`) |
 | **Binary Size** | `10.7 MB` (`11,234,375 bytes`) |
 | **Min SDK / Target SDK** | Android 8.0 (API 26) / Android 15 (API 35) |
-| **SHA-256 Checksum** | `DB04B1D10FA68389F9C885B8AEBC440625BD5E571F83F2521C6D43BC56483CC1` |
-
-### Checksum Verification
-```bash
-# Windows PowerShell
-Get-FileHash ./Sashyamitra-v1.0.0-release.apk -Algorithm SHA256
-
-# Linux / macOS
-shasum -a 256 ./Sashyamitra-v1.0.0-release.apk
-```
 
 ---
 
